@@ -1,0 +1,30 @@
+_repo: Goops-and-How-to-Be-Them_36664
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36664-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Burgess, Gelett
+    alias: Burgess, Frank Gelett
+    birthdate: 1866
+    deathdate: 1951
+    gutenberg_agent_id: '3732'
+    url: http://www.gutenberg.org/2009/agents/3732
+    wikipedia: http://en.wikipedia.org/wiki/Gelett_Burgess
+description: ''
+gutenberg_issued: '2011-07-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36664'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Etiquette'
+- !lcsh 'Etiquette for children and teenagers'
+- !lcsh 'Etiquette -- Juvenile poetry'
+- !lcc 'BJ'
+title: Goops and How to Be Them
+url: http://www.gutenberg.org/ebooks/36664
